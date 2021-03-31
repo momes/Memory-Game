@@ -84,7 +84,7 @@ function unFlipCard(str) {
 };
 
 function displayWin() {
-  playAgain.style = "display: block;"
+  playAgain.style = "display: flex;"
 }
 
 /** Handle clicking on a card: this could be first-card or second-card. */
